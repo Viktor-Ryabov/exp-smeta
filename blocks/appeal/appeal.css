@@ -1,0 +1,9 @@
+.appeal{
+    margin: 50px auto 0 auto;
+    padding: 0 0 50px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 90%;
+}

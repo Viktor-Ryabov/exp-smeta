@@ -1,0 +1,10 @@
+.header__contacts{
+    margin: 0 auto;
+    padding: 0;
+    min-width: max-content;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    grid-area: contacts;
+}

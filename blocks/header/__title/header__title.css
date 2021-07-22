@@ -1,0 +1,15 @@
+.header__title{
+    margin: 0;
+    padding: 0;
+    grid-area: title;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 58px;
+    /* identical to box height, or 107% */
+    color: #FFFFFF;
+    max-width: 750px;
+    text-align: center;
+    justify-self: center;
+}

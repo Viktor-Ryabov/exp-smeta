@@ -1,0 +1,12 @@
+.header__grid{
+    margin: 0 auto;
+    padding: 0;
+    min-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 372px);
+    grid-template-rows: repeat(2, min-content);
+    grid-template-areas: 
+    "title title contacts"
+    "subtitle subtitle contacts" ;
+    grid-gap: 15px 18px;
+}

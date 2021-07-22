@@ -1,0 +1,14 @@
+.appeal__mesh{
+    margin: 0 auto;
+    padding: 0;
+    min-width: max-content;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    grid-area: appeal;
+    min-width: 640px;
+    text-align: center;
+    border-bottom: grey dashed 2px;
+    border-width: 80%;
+}

@@ -1,0 +1,12 @@
+.appeal__grid{
+    margin: 0 auto;
+    padding: 0;
+    min-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 372px);
+    grid-template-rows: repeat(2, min-content);
+    grid-template-areas: 
+    "foto appeal appeal"
+    "foto appeal appeal" ;
+    grid-gap: 15px 18px;
+}

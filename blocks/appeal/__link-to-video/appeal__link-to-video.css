@@ -1,0 +1,23 @@
+.appeal__link-to-video{
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+    /*text-decoration: none;*/
+    min-width: fit-content;
+    font-size: 18px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 18px;
+    cursor: pointer;
+    text-align: right;
+}
+
+.appeal__link-to-video:hover{
+    text-decoration: overline;
+    opacity: 0.7;
+    font-size: 22px;
+    transition: 0.4s;
+}
